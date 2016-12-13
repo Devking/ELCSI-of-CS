@@ -30,3 +30,7 @@ Links to relevant organizations, articles, books, and reports.
 | [The Global Impact of Open Data](http://www.oreilly.com/data/free/the-global-impact-of-open-data.csp) | Andrew Young and Stefaan Verhulst |
 | [AI 100 2016 Report](https://ai100.stanford.edu/2016-report) | [AI 100 Study Panel](https://ai100.stanford.edu/2016-report/preface/participants) |
 | [AI Now Report](https://artificialintelligencenow.com/media/documents/AINowSummaryReport_3_RpmwKHu.pdf) | [AI Now Production Team](https://artificialintelligencenow.com/schedule/conference/page/production-credits)
+
+## Misc.
+
+- [A Short Course on FATML](https://geomblog.github.io/fairness/) by Suresh Venkatasubramanian
