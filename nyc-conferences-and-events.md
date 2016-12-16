@@ -37,6 +37,13 @@ I encourage folks to add to this list via Pull Request. :)
 | [Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org) | Nov 18 |
 | [Workshop on Data and Algorithmic Transparency](http://datworkshop.org) | Nov 19 |
 
+2016 Events
+-----------
+
+| Event Name | Dates |
+| ---------- | ----- |
+| [The Glass Room](https://theglassroomnyc.org) | Nov 29 - Dec 18 |
+
 2017 Events
 -----------
 
