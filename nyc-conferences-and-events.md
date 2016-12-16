@@ -1,5 +1,5 @@
-List of NYC Conferences&#42; for ELCSI of AI/ML/DS
-=============================================
+List of NYC Conferences and Events for ELCSI of AI/ML/DS
+========================================================
 
 This is a growing list of conferences&#42; in NYC related to the Ethical, Legal,
 Civic, and Social Implications (ELCSI) of Artificial Intelligence (AI), Machine
@@ -25,9 +25,6 @@ work within this community, or wish to enter into this community, to utilize.
 
 I encourage folks to add to this list via Pull Request. :)
 
-&#42; Although the title of this specifies *conferences* in particular, the list
-also includes conference-like events such as meetups and workshops.
-
 2016 Conferences
 ----------------
 
@@ -39,3 +36,10 @@ also includes conference-like events such as meetups and workshops.
 | [Data Transparency Lab](http://dtlconferences.org) | Nov 16 - 19 |
 | [Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org) | Nov 18 |
 | [Workshop on Data and Algorithmic Transparency](http://datworkshop.org) | Nov 19 |
+
+2017 Events
+-----------
+
+| Event Name | Dates |
+| ---------- | ----- |
+| [BigApps NYC](http://www.nycbigapps.com) | Jan 9 - ? |
