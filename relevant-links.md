@@ -34,4 +34,4 @@ Links to relevant organizations, articles, books, and reports.
 
 ## Misc.
 
-- [A Short Course on FATML](https://geomblog.github.io/fairness/) by Suresh Venkatasubramanian
+- [A Short Course on FATML](https://geomblog.github.io/fairness/) by [Suresh Venkatasubramanian](http://www.cs.utah.edu/~suresh/web/)
