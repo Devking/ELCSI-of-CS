@@ -44,6 +44,13 @@ I encourage folks to add to this list via Pull Request. :)
 | ---------- | ----- |
 | [The Glass Room](https://theglassroomnyc.org) | Nov 29 - Dec 18 |
 
+2017 Conferences
+----------------
+
+| Conference Name | Dates |
+| --------------- | ----- |
+| [Propaganda and Media Manipulation](https://datasociety.net/blog/2016/12/13/workshop-propaganda-media-manipulation/?utm_content=buffer518c0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | May 19 |
+
 2017 Events
 -----------
 
