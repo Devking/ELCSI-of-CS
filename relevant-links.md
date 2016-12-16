@@ -13,6 +13,7 @@ Links to relevant organizations, articles, books, and reports.
 | [NYC Office of Tech + Innovation](http://www1.nyc.gov/site/forward/index.page) | NYC |
 | [MIT Center for Civic Media](https://civic.mit.edu) | Cambridge, MA |
 | [mySociety](https://www.mysociety.org) | London, UK |
+| [Open Gov Partnership](http://www.opengovpartnership.org) | Washington D.C. |
 
 ## Articles
 
