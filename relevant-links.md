@@ -22,6 +22,7 @@ Links to relevant organizations, articles, books, and reports.
 | ["Machine Bias: Risk Assessments in Criminal Sentencing"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) | [Julia Angwin](http://juliaangwin.com), [Jeff Larson](https://www.propublica.org/site/author/jeff_larson), [Surya Mattu](http://www.suryamattu.com), and [Lauren Kirchner](http://www.laurenbkirchner.com) | ProPublica |
 | ["Amazon Doesn’t Consider the Race of Its Customers. Should It?"](http://www.bloomberg.com/graphics/2016-amazon-same-day/) | [David Ingold](https://twitter.com/davidingold) and [Spencer Soper](https://twitter.com/spencersoper) | Bloomberg |
 | ["Critical Questions for Big Data"](http://www.tandfonline.com/doi/abs/10.1080/1369118X.2012.678878) | [danah boyd](http://www.danah.org) and [Kate Crawford](http://www.katecrawford.net) | Information, Communication & Society |
+| ["Bias in Criminal Risk Scores Is Mathematically Inevitable"](https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say) | [Julia Angwin](http://juliaangwin.com) and [Jeff Larson](https://www.propublica.org/site/author/jeff_larson) | ProPublica |
 
 ## Books and Reports
 
