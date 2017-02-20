@@ -57,3 +57,4 @@ I encourage folks to add to this list via Pull Request. :)
 | Event Name | Dates |
 | ---------- | ----- |
 | [BigApps NYC](http://www.nycbigapps.com) | Jan 9 - ? |
+| [NYC School of Data Conference](https://schoolofdata.nyc) | Mar 4 |
