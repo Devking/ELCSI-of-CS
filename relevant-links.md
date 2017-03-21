@@ -14,6 +14,8 @@ Links to relevant organizations, articles, books, and reports.
 | [MIT Center for Civic Media](https://civic.mit.edu) | Cambridge, MA |
 | [mySociety](https://www.mysociety.org) | London, UK |
 | [Open Gov Partnership](http://www.opengovpartnership.org) | Washington D.C. |
+| [Bayes Impact](http://www.bayesimpact.org) | SF, CA |
+| [Center for Technology, Society, and Policy](https://ctsp.berkeley.edu) | Berkeley, CA |
 
 ## Articles
 
