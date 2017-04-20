@@ -49,6 +49,7 @@ I encourage folks to add to this list via Pull Request. :)
 
 | Conference Name | Dates |
 | --------------- | ----- |
+| [Algorithms and Explanations](http://www.law.nyu.edu/centers/ili/events/algorithms-and-explanations) | Apr 27 - 28 |
 | [Propaganda and Media Manipulation](https://datasociety.net/blog/2016/12/13/workshop-propaganda-media-manipulation/?utm_content=buffer518c0&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | May 19 |
 | [Data for Good Exchange](https://www.bloomberg.com/company/d4gx/) | Sep 24 |
 
