@@ -22,6 +22,14 @@
 | Artificial Intelligence                               | John Haugeland |
 | Mind Design                                           | John Haugeland |
 | Mind Design II                                        | John Haugeland |
+| The Sciences of the Artificial                        | Herbert Simon  |
+
+# Papers (opening myself up to an endless rabbit hole here)
+
+| Title                                                 | Author         | Year |
+|-------------------------------------------------------|----------------| ---- |
+| Computing Machinery and Intelligence                  | Alan Turing    | 1950 |
+| Minds, Brains, and Programs                           | John Searle    | 1980 |
 
 # Some Other Other Books
 
