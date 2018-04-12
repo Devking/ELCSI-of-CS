@@ -2,6 +2,8 @@
 
 Some case examples that have been mentioned by folks working on issues of bias in the AI and closely related space. These categories are not mutually exclusive, and the entries currently listed may fit in other categories they're not currently listed in as well. I'll want to organize these more and think more closely about better ways to effectively arrange all of these.
 
+* A really important talk with many of these: [Kate Crawford's NIPS 2017 Keynote](https://www.youtube.com/watch?v=fMym_BKWQzk)
+
 ### Predictive Policing
 
 * [Machine Bias (COMPAS)](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) (2016)
@@ -22,6 +24,7 @@ Some case examples that have been mentioned by folks working on issues of bias i
 * [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/pdf/1607.06520.pdf) (2016)
 * [Racial Disparity in NLP (AAVE Recognition)](http://brenocon.com/oconnor_fatml_aae_20170814.pdf) (2017)
 * [Gender-Neutral to Gendered Translations (Turkish "He is a doctor")](https://www.facebook.com/photo.php?fbid=10154851496086949&set=a.10150241543551949.318652.661666948&type=3&theater) (2017)
+* [Bias in Google Comment Toxicity Ranking](https://www.engadget.com/2017/09/01/google-perspective-comment-ranking-system/) (2017)
 * [Accent Bias](https://www.youtube.com/watch?v=gJCVla9xYUs) (Book chapter forthcoming)
 
 ### Proxies
@@ -36,7 +39,7 @@ Some case examples that have been mentioned by folks working on issues of bias i
 
 ### Representation
 
-* Search results for 'professor' or 'engineer' or 'robot'
+* Search results for 'professor' or 'engineer' or 'ceo' or robot'
 
 ### General
 
